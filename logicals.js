@@ -63,14 +63,14 @@ if((atoms * starsInSky) < 100){
 }else{
     return false;
 }
-// false
+// true
 
 if((atoms * starsInSky) >100){
     return true;
 }else{
     return false;
 }
-// true
+// false
 
 
 
